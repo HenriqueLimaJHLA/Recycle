@@ -1,0 +1,24 @@
+
+ .titulo1{;
+	color: #2E8B57;
+	font-size:40;
+	text-align: center; 
+}
+
+ .titulo2{;
+	color: #2E8B57;
+	position:height;
+	font-size:40;
+}
+
+ .texto1{
+	color:#2E8B57;
+	font-size:12;
+}
+
+.fundo{  
+	  background-image: url(folhas.jpg);
+	  background-repeat: no-repeat;
+	  background-position: 0px 0px; 
+	  background-attachment: fixed;
+	}
